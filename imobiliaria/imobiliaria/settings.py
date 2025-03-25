@@ -46,6 +46,8 @@ INSTALLED_APPS = [
     'django_filters',
     'bootstrap4',
     'widget_tweaks',
+    'rest_framework',
+    'frontend',
     
 ]
 
@@ -115,7 +117,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'pt_BR'
 
-TIME_ZONE = 'AMERICA,sao_paulo'
+TIME_ZONE = 'America/Sao_Paulo'
 
 USE_I18N = True
 
