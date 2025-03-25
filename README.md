@@ -1,6 +1,6 @@
 # imobiliaria
 
-Projeto integrador para gerenciamento de uma imobiliária.
+Projeto integrador (UNIVESP) para gerenciamento de uma imobiliária.
 
 ## Aplicativos
 
